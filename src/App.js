@@ -12,9 +12,10 @@ function App () {
       <h1>My React App</h1>
       <h2>Author: Ben Li</h2>
       <img src={profileImage} alt="my-img" />
+      
     </div>
   );
  
 }
-
+// init commit
 export default App;
