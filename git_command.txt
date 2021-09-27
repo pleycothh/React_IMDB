@@ -1,0 +1,2 @@
+git remote add origin https://github.com/pleycothh/React_IMDB.git
+# add remote to github 
