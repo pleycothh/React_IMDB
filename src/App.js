@@ -9,8 +9,8 @@ import profileImage from './images/no_image.jpg';
 function App () {
   return (
     <div className="App">
-      <h1>My React App</h1>
-      <h2>Author: Ben Li</h2>
+      <h1>My React App test</h1>
+      <h2>Author: Ben Li 19930119</h2>
       <img src={profileImage} alt="my-img" />
       
     </div>
